@@ -3,43 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sparkleleuk.github.io/categories/</loc>
-    <lastmod>2020-08-29T12:11:37-04:00</lastmod>
+    <loc>https://sparkleleuk.github.io/posts/test-post/</loc>
+    <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sparkleleuk.github.io/post/first-post/</loc>
-    <lastmod>2020-08-29T12:11:37-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sparkleleuk.github.io/post/</loc>
-    <lastmod>2020-08-29T12:11:37-04:00</lastmod>
+    <loc>https://sparkleleuk.github.io/posts/</loc>
+    <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sparkleleuk.github.io/</loc>
-    <lastmod>2020-08-29T12:11:37-04:00</lastmod>
+    <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sparkleleuk.github.io/tags/tag_name1/</loc>
-    <lastmod>2020-08-29T12:11:37-04:00</lastmod>
+    <loc>https://sparkleleuk.github.io/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sparkleleuk.github.io/tags/tag_name2/</loc>
-    <lastmod>2020-08-29T12:11:37-04:00</lastmod>
+    <loc>https://sparkleleuk.github.io/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sparkleleuk.github.io/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sparkleleuk.github.io/posts/post-8/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sparkleleuk.github.io/tags/</loc>
-    <lastmod>2020-08-29T12:11:37-04:00</lastmod>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sparkleleuk.github.io/categories/technology/</loc>
-    <lastmod>2020-08-29T12:11:37-04:00</lastmod>
+    <loc>https://sparkleleuk.github.io/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sparkleleuk.github.io/posts/post-7/</loc>
+    <lastmod>2018-03-18T12:13:38-05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sparkleleuk.github.io/posts/post-5/</loc>
+    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sparkleleuk.github.io/posts/post-6/</loc>
+    <lastmod>2018-03-18T12:13:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sparkleleuk.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sparkleleuk.github.io/defsustainability/</loc>
   </url>
   
 </urlset>
